@@ -1,0 +1,4 @@
+Encrypted text of own message
+Encrypted using key shift:6
+
+LHKNMLHXNPXML

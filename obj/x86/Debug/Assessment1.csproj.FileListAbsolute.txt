@@ -1,0 +1,62 @@
+\\srv124\students$\309219\my documents\visual studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\ResolveAssemblyReference.cache
+\\srv124\students$\309219\my documents\visual studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\GenerateResource.read.1.tlog
+\\srv124\students$\309219\my documents\visual studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\GenerateResource.write.1.tlog
+\\srv124\students$\309219\my documents\visual studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\bin\Debug\Assessment1.exe
+\\srv124\students$\309219\my documents\visual studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\bin\Debug\Assessment1.pdb
+\\srv124\students$\309219\my documents\visual studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\Assessment1.g.resources
+\\srv124\students$\309219\my documents\visual studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\Assessment1.Properties.Resources.resources
+\\srv124\students$\309219\my documents\visual studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\Assessment1.exe
+\\srv124\students$\309219\my documents\visual studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\Assessment1.pdb
+Z:\Visual Studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\Assessment1.exe
+Z:\Visual Studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\Assessment1.pdb
+Z:\Visual Studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\bin\Debug\Assessment1.exe
+Z:\Visual Studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\bin\Debug\Assessment1.pdb
+Z:\Visual Studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\Assessment1.Properties.Resources.resources
+Z:\Visual Studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\bin\Debug\Text.txt
+Z:\Visual Studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\bin\Debug\Text2.txt
+Z:\Visual Studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Visual Studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Visual Studio 2010\Projects\ConsoleApplication126\ConsoleApplication126\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Programming and Data Structures Assessment 1 Folder\Programming and Data Structures Assessment 1\obj\x86\Debug\Assessment1.exe
+Z:\Programming and Data Structures Assessment 1 Folder\Programming and Data Structures Assessment 1\obj\x86\Debug\Assessment1.pdb
+Z:\Programming and Data Structures Assessment 1 Folder\Part B\Programming and Data Structures Assessment 1\obj\x86\Debug\Assessment1.exe
+Z:\Programming and Data Structures Assessment 1 Folder\Part B\Programming and Data Structures Assessment 1\obj\x86\Debug\Assessment1.pdb
+Z:\Programming and Data Structures Assessment 1 Folder\Part B\Programming and Data Structures Assessment 1\bin\Debug\Text.txt
+Z:\Programming and Data Structures Assessment 1 Folder\Part B\Programming and Data Structures Assessment 1\bin\Debug\Text2.txt
+Z:\Programming and Data Structures Assessment 1 Folder\Part B\Programming and Data Structures Assessment 1\bin\Debug\Assessment1.exe
+Z:\Programming and Data Structures Assessment 1 Folder\Part B\Programming and Data Structures Assessment 1\bin\Debug\Assessment1.pdb
+Z:\Programming and Data Structures Assessment 1 Folder\Part B\Programming and Data Structures Assessment 1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Programming and Data Structures Assessment 1 Folder\Part B\Programming and Data Structures Assessment 1\obj\x86\Debug\Assessment1.Properties.Resources.resources
+Z:\Programming and Data Structures Assessment 1 Folder\Part B\Programming and Data Structures Assessment 1\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Programming and Data Structures Assessment 1 Folder\Part B\Programming and Data Structures Assessment 1\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\1Assessment 1Programming and data structures hand in folder\Programming And Data Structures Assessment 1 Supporting Files\Part B\obj\x86\Debug\Assessment1.exe
+Z:\1Assessment 1Programming and data structures hand in folder\Programming And Data Structures Assessment 1 Supporting Files\Part B\obj\x86\Debug\Assessment1.pdb
+Z:\1Assessment 1Programming and data structures hand in folder\Programming And Data Structures Assessment 1 Supporting Files\Part B\bin\Debug\Text.txt
+Z:\1Assessment 1Programming and data structures hand in folder\Programming And Data Structures Assessment 1 Supporting Files\Part B\bin\Debug\Text2.txt
+Z:\1Assessment 1Programming and data structures hand in folder\Programming And Data Structures Assessment 1 Supporting Files\Part B\bin\Debug\Assessment1.exe
+Z:\1Assessment 1Programming and data structures hand in folder\Programming And Data Structures Assessment 1 Supporting Files\Part B\bin\Debug\Assessment1.pdb
+Z:\1Assessment 1Programming and data structures hand in folder\Programming And Data Structures Assessment 1 Supporting Files\Part B\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\1Assessment 1Programming and data structures hand in folder\Programming And Data Structures Assessment 1 Supporting Files\Part B\obj\x86\Debug\Assessment1.Properties.Resources.resources
+Z:\1Assessment 1Programming and data structures hand in folder\Programming And Data Structures Assessment 1 Supporting Files\Part B\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\1Assessment 1Programming and data structures hand in folder\Programming And Data Structures Assessment 1 Supporting Files\Part B\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\obj\x86\Debug\Assessment1.exe
+Z:\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\obj\x86\Debug\Assessment1.pdb
+Z:\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\bin\Debug\Text.txt
+Z:\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\bin\Debug\Text2.txt
+Z:\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\bin\Debug\Assessment1.exe
+Z:\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\bin\Debug\Assessment1.pdb
+Z:\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\obj\x86\Debug\Assessment1.Properties.Resources.resources
+Z:\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\obj\x86\Debug\GenerateResource.write.1.tlog
+\\srv124\Students$\309219\my documents\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\obj\x86\Debug\Assessment1.exe
+\\srv124\Students$\309219\my documents\1Assessment 1Programming and data structures hand in folder\CoeH-309219-CMP1127M-1\Part B\obj\x86\Debug\Assessment1.pdb
+\\Mac\Home\Desktop\GitHub Stuff\C Sharp Assignment 1\obj\x86\Debug\Assessment1.exe
+\\Mac\Home\Desktop\GitHub Stuff\C Sharp Assignment 1\obj\x86\Debug\Assessment1.pdb
+\\Mac\Home\Desktop\GitHub Stuff\C Sharp Assignment 1\bin\Debug\Assessment1.exe
+\\Mac\Home\Desktop\GitHub Stuff\C Sharp Assignment 1\bin\Debug\Assessment1.pdb
+\\Mac\Home\Desktop\GitHub Stuff\C Sharp Assignment 1\obj\x86\Debug\Assessment1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub Stuff\C Sharp Assignment 1\obj\x86\Debug\Assessment1.Properties.Resources.resources
+\\Mac\Home\Desktop\GitHub Stuff\C Sharp Assignment 1\obj\x86\Debug\Assessment1.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\GitHub Stuff\C Sharp Assignment 1\bin\Debug\Resources\Text.txt
+\\Mac\Home\Desktop\GitHub Stuff\C Sharp Assignment 1\bin\Debug\Resources\Text2.txt
